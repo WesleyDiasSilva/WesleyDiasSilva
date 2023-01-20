@@ -8,8 +8,8 @@
 </div>
 
 - 👏 Brazilian, 24 years old.
-- 🖥️ Software Enginner student at Driven Education.
-- ✍️ I'm currently learning Typescript and micro-services.
+- 🖥️ Software Engineer student at Driven Education.
+- ✍️ Currently learning Typescript and micro-services.
 <div>
   <a href="https://github.com/WesleyDiasSilva">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyDiasSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
