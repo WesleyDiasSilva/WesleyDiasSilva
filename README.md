@@ -4,9 +4,9 @@
 
 
 
-- 👏 Brazilian, 25 years old.
+- 👏 Brazilian, 26 years old.
 - 🖥️ Software Engineer.
-- ✍️ Currently learning Kubernetes, Cloud and micro-services.
+- ✍️ Currently learning Golang, Cloud and micro-services.
 <div>
   <a href="https://github.com/WesleyDiasSilva">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyDiasSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
